@@ -1,6 +1,6 @@
 # Sales & Marketing Analytics
 This repository consists of predicting dynamic pricing, churn predictions using sales and marketing data for understanding users' behaviour. 
-* Topics covered:
+### Topics covered:
 
 1)- Know Your Metrics.
 
